@@ -5,7 +5,7 @@ This is a web based application developed for lifestyle related Games based webs
 ### This web based Gaming application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-Project Link -  
+Project Link - https://white-bay-0b2c79b00.2.azurestaticapps.net 
 
 
 
