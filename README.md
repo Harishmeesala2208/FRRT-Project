@@ -9,7 +9,7 @@ Project Link - https://white-bay-0b2c79b00.2.azurestaticapps.net
 
 
 
-Project demo video link  -  
+Project demo video link  - https://youtu.be/b-LYixnq8xQ 
 
 
 
