@@ -182,7 +182,7 @@ Project demo video link  -
 
 
 
-### azure Static Web Apps -
+### Azure Static Web Apps -
 
 ![Screenshot (418)](https://user-images.githubusercontent.com/123392099/215713628-227eeedb-24b9-4539-8aa4-9ac9e093d7ee.png)
 
