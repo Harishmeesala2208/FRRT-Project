@@ -1,15 +1,15 @@
-# ✨ Farm Planning  ✨
+# ✨ Playful  ✨
 
-This is a web based application developed for Earth related Farming based website in india
+This is a web based application developed for lifestyle related Games based website in india
 
-### This web based Agriculture application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
-
-
-Project Link -  https://ashy-pond-04d67e500.2.azurestaticapps.net
+### This web based Gaming application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
+Project Link -  
 
-Project demo video link  -  https://youtu.be/IEa_XUGZlYw
+
+
+Project demo video link  -  
 
 
 
@@ -25,11 +25,169 @@ Project demo video link  -  https://youtu.be/IEa_XUGZlYw
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About, Services, Contact, Healthbot, Farming topics and Farm Planning related information etc.
-- User can know about Farming information through this website.
+- Has collection of many web pages including Home, About,Our Achievements, Typography, Error, Blog, Contact, Health bot Gming related information etc.
+- User can know about Game information through this website.
 - Included the feedback Survey  google form to increase the scope of improvement 
 
 ## Screenshots
+
+
+### Home -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### About -
+
+
+
+
+
+
+
+
+
+
+### Our Achievements -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Typography -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Error -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Blog -
+
+
+
+
+
+
+
+
+
+
+
+
+### Contact -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Health Bot -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### azure Static Web Apps -
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Azure Health Bot -
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
